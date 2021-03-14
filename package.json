@@ -1,0 +1,16 @@
+{
+  "name": "template-compose",
+  "version": "1.0.0",
+  "description": "Generate dynamic images from templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "template",
+    "image",
+    "generator"
+  ],
+  "author": "Conor O'Brien",
+  "license": "ISC"
+}
